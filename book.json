@@ -1,0 +1,58 @@
+{
+  "title": "Test Books",
+  "author": "nicky",
+  "description": "Talk is cheap, show me the code",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "styles": {
+    "website": "./styles/website.css"
+  },
+  "structure": {
+    "readme": "README.md"
+  },
+  "links": {
+    "sidebar": {
+      "e路同心": "https://www.88bank.com"
+    }
+  },
+  "plugins": [
+    "-sharing",
+    "splitter",
+    "expandable-chapters-small",
+    "anchors",
+    "github",
+    "sharing-plus",
+    "anchor-navigation-ex"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/niliang107"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": false,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": false,
+      "whatsapp": false,
+      "all": [
+        "google", "facebook", "weibo", "twitter",
+        "qq", "qzone", "linkedin", "pocket"
+      ]
+    },
+    "anchor-navigation-ex": {
+      "showLevel": false
+    }
+  }
+}
