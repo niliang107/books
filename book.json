@@ -47,8 +47,7 @@
       "weibo": false,
       "whatsapp": false,
       "all": [
-        "google", "facebook", "weibo", "twitter",
-        "qq", "qzone", "linkedin", "pocket"
+        "google", "weibo", "qq", "qzone", "linkedin"
       ]
     },
     "anchor-navigation-ex": {

@@ -1,6 +1,5 @@
-# Summary
+# 书籍清单
 
 * [Introduction](README.md)
-* [Idea-jenkins环境搭建](jenkins-jira-idea环境.md)
-* [SlikSvn命令行](SlikSvn命令行.md)
-
+* [我的收藏](./md/SUMMARY.md)
+* [《囚徒健身》](./qtjs/SUMMARY.md)
